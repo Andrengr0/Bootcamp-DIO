@@ -1,0 +1,35 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Desafio03",
+            "request": "launch",
+            "mainClass": "desafios.Desafio03",
+            "projectName": "desafios-bootcamp_1733e245"
+        },
+        {
+            "type": "java",
+            "name": "Desafio03",
+            "request": "launch",
+            "mainClass": "Desafio03",
+            "projectName": "desafios-bootcamp_1733e245"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "teste01",
+            "request": "launch",
+            "mainClass": "teste01",
+            "projectName": "desafios-bootcamp_1733e245"
+        }
+    ]
+}
